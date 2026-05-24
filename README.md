@@ -21,23 +21,29 @@ This notebook is NOT for people who are:
 This notebook pushes you to understand the concepts taught in the 30-days-of-Python repository. Also, you’ll receive feedback immediately via APPROVED/FAILED test blocks that check to see whether your code works as expected. 
 
 3 - Prerequisites
+
 -Asabeneh’s 30-days-of-Python: https://github.com/asabeneh/30-days-of-python 
+
 -Python 3.11+ installed
+
 -VS Code with the Jupyter extension
+
 -Basic familiarity with running Python (the curriculum teaches everything else)
 
 4 - How to use it
 
 -Read Asabeneh's Day X .md file first to learn the concept
+
 -Open the corresponding notebook and solve the exercises
+
 -Run the test cells to check your work. Try not to move on until you satisfy every case.
-
-
 
 5 - Repo structure
 
 -Organized into 6 week folders (week_1 through week_6)
+
 -Each folder contains daily notebooks (day_01.ipynb through day_05.ipynb etc.)
+
 -Day 30 is a project brief for a Student Management Platform. It is a full-stack Python project that ties together everything learned in this curriculum 
 
 6 - Known Issues & Contributing
@@ -45,6 +51,7 @@ This notebook pushes you to understand the concepts taught in the 30-days-of-Pyt
 PRs are welcome for bug fixes in test cells, new exercises, or edge case coverage in test cells. Open an issue before making large changes. Try to follow the existing notebook format: markdown cell, stub cell, test cell. This makes issues easier to review and approve.
 
 -Some test expected values were manually corrected during development. I might’ve missed others that may still have edge cases. 
+
 -Week 5 and 6 still need some work on some of the exercises. They are not as refined as the other weeks.
 
 7 - Attribution & License
